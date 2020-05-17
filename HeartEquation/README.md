@@ -1,5 +1,5 @@
 # Hearth Equation
-This project is the implementation of the curious hearth equation, performed in the P5.js library, which allows us to see an animation of the equation curves.
+This project is the implementation of the curious [hearth equation](https://mathworld.wolfram.com/HeartCurve.html), performed in the P5.js library, which allows us to see an animation of the equation curves.
 
 Bellow you can check the example:
 
