@@ -1,5 +1,5 @@
 # Bubblesort Visualizer
-This project is the implementation of the famous bubblesort algorithm, performed in the P5.js framework, which allows us to see an animation of how the algorithm works.
+This project is the implementation of the famous [bubblesort](https://pt.wikipedia.org/wiki/Bubble_sort) algorithm, performed in the P5.js framework, which allows us to see an animation of how the algorithm works.
 
 Bellow you can check the example:
 
