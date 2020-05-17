@@ -11,4 +11,12 @@ Bellow you can check the example:
 
 ![](/BubbleSort/bubbleSort.gif)
 
+# Hearth Equation
+This project is the implementation of the curious hearth equation, performed in the P5.js library, which allows us to see an animation of the equation curves.
+
+Bellow you can check the example:
+
+
+![](/HeartEquation/heart.gif)
+
 
