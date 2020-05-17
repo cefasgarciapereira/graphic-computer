@@ -4,7 +4,7 @@ This project is the implementation of the famous bubblesort algorithm, performed
 Bellow you can check the example:
 
 
-![](/../Results/bubbleSort.gif)
+![](bubbleSort.gif)
 
 ## Running
 To execute this project, just open the `index.html` in your browser.
