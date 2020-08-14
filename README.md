@@ -27,4 +27,27 @@ Bellow you can check the example:
 
 ![](/MonteCarloPI/MonteCarloPi.gif)
 
+## Barnsley Fern
+This project is the implementation of the [Barnsley Fern](https://en.wikipedia.org/wiki/Barnsley_fern), the fern is one of the basic examples of self-similar sets, i.e. it is a mathematically generated pattern that can be reproducible at any magnification or reduction.
+
+Bellow you can check the example, and you also can check rendered images inside the project folder.
+
+![](/BarnsleyFern/animation.gif)
+
+## Fractal Tree
+This project is the implementation of the [Fractal Tree] (https://en.wikipedia.org/wiki/Fractal_tree_index), this fractal consists of recursively applying a rotation in the generation of the branch and decreasing its length in half. This process performed repeatedly generate a tree.
+
+Bellow you can check the example:
+
+![](/FractalTree/fractal_tree.png)
+
+## L System
+An L-system or Lindenmayer system is a parallel rewriting system and a type of formal grammar. An L-system consists of an alphabet of symbols that can be used to make strings, a collection of production rules that expand each symbol into some larger string of symbols, an initial "axiom" string from which to begin construction, and a mechanism for translating the generated strings into geometric structures. L-systems were introduced and developed in 1968 by Aristid Lindenmayer, a Hungarian theoretical biologist and botanist at the University of Utrecht. Lindenmayer used L-systems to describe the behaviour of plant cells and to model the growth processes of plant development. L-systems have also been used to model the morphology of a variety of organisms[1] and can be used to generate self-similar fractals.
+
+Source: [Wikipedia](https://en.wikipedia.org/wiki/L-system)
+
+Bellow you can check the example:
+
+![](/LSystem/l-tree.png)
+
 
