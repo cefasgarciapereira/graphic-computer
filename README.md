@@ -50,4 +50,12 @@ Bellow you can check the example:
 
 ![](/LSystem/l-tree.png)
 
+## Mandelbrot Set
+This project is the implementation of the [Mandelbrot Set](https://en.wikipedia.org/wiki/Mandelbrot_set), performed in the P5.js library. The Mandelbrot Set is the set of complex numbers c for which the function fc(z) = z² + c does not diverge when iterated from z > 0.
+
+Bellow you can check the example:
+
+
+![](/MandelbrotSet/example.png)
+
 
